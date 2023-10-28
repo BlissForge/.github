@@ -1,7 +1,7 @@
 ### [✧ Check out my gists](https://gist.github.com/Lorenzo501)
 
 <!--🦶FOOTER--> 
-[![](header.svg)](#)
+[![](https://raw.githubusercontent.com/BlissForge/.github/main/profile/header.svg)](#)
 
 <!--
 **Lorenzo501/Lorenzo501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
